@@ -1,0 +1,11 @@
+.active {
+   color: #cb3362 !important;
+}
+
+.flex {
+   display: flex;
+}
+
+.flex__space-between--m {
+   justify-content: space-between;
+}
